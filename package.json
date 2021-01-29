@@ -1,0 +1,9 @@
+{
+  "name": "lottie-jptoen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "replace-in-file": "^6.1.0"
+  }
+}
